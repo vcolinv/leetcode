@@ -4,4 +4,4 @@ https://leetcode.com/problems/unique-paths/
 
 dp[i][j] = dp[i-1][j] + dp[i][j-1];
 
-![1111](../images/robot_maze2.jgp)
+![1111](../images/robot_maze2.jpg)
